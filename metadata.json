@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Meda AI Bot",
+  "description": "Meda AI Bot (Medical Expertise Diagnostic Agent) is a multilingual healthcare assistant for users across India, featuring an accessible, animation-rich UI, AI-powered symptom analysis, prescription scanning, and reliable location-based doctor discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
